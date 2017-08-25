@@ -10,6 +10,7 @@ Clone the GitHub repository and install the dependencies.
   * pandas
   * numpy
   * matplotlib
+  * tensorflow
  * Clone the repo and go to directory 
 ```
 $ git clone https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM.git
